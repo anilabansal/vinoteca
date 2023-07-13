@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "167579295836",
+    "project_id": "vinoteca-vineyard",
+    "storage_bucket": "vinoteca-vineyard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167579295836:android:79f39247629270e0edc699",
+        "android_client_info": {
+          "package_name": "com.store.vinoteca_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167579295836-d7t02h0qhq1qk7kttv6ioc1tpns217fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.store.vinoteca_app",
+            "certificate_hash": "fa0da3a5406f27d30da17b0543d6355edb117f81"
+          }
+        },
+        {
+          "client_id": "167579295836-nhmamqlmkbu39ksn8k85gga9tt40jgkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaJoDR4Cu6J3vQS3Ta6_bTifXlpGqu2dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167579295836-6dvjp6uuilgtgb73s59jpste5aolvljh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

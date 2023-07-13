@@ -1,0 +1,56 @@
+
+
+{
+  "payment": {
+    "id": "JQCIpcF6FZ0MM78TVStAMNR3QS7YY",
+    "created_at": "2023-01-10T07:29:07.578Z",
+    "updated_at": "2023-01-10T07:29:07.804Z",
+    "amount_money": {
+      "amount": 100,
+      "currency": "USD"
+    },
+    "status": "COMPLETED",
+    "delay_duration": "PT168H",
+    "source_type": "CARD",
+    "card_details": {
+      "status": "CAPTURED",
+      "card": {
+        "card_brand": "VISA",
+        "last_4": "1111",
+        "exp_month": 11,
+        "exp_year": 2025,
+        "fingerprint": "sq-1-FfaB4mdGSLjBzywqdxdouVqAjEJFO39iW7gs3HfL2-E2PllztRiIy64Xm7yagG-tOQ",
+        "card_type": "CREDIT",
+        "prepaid_type": "NOT_PREPAID",
+        "bin": "411111"
+      },
+      "entry_method": "KEYED",
+      "cvv_status": "CVV_ACCEPTED",
+      "avs_status": "AVS_NOT_CHECKED",
+      "statement_description": "SQ *DEFAULT TEST ACCOUNT",
+      "card_payment_timeline": {
+        "authorized_at": "2023-01-10T07:29:07.687Z",
+        "captured_at": "2023-01-10T07:29:07.804Z"
+      }
+    },
+    "location_id": "LA9GD6PAN43J7",
+    "order_id": "u0e3WzMN3dfAkkr4EEp2nbDrNSOZY",
+    "total_money": {
+      "amount": 100,
+      "currency": "USD"
+    },
+    "approved_money": {
+      "amount": 100,
+      "currency": "USD"
+    },
+    "receipt_number": "JQCI",
+    "receipt_url": "https://squareupsandbox.com/receipt/preview/JQCIpcF6FZ0MM78TVStAMNR3QS7YY",
+    "delay_action": "CANCEL",
+    "delayed_until": "2023-01-17T07:29:07.578Z",
+    "application_details": {
+      "square_product": "ECOMMERCE_API",
+      "application_id": "sandbox-sq0idb-ugst-DWxF-GFDCOF45NwCQ"
+    },
+    "version_token": "yG11qfaexQ3WKesxJxRCP9MIXBRCr7OZrltb02Ng1sj6o"
+  }
+}
